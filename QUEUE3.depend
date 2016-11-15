@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479220677 source:e:\!telkom university\struktur data\queue\queue3\main.cpp
+	<iostream>
+	"queue.h"
+
+1479220677 e:\!telkom university\struktur data\queue\queue3\queue.h
+	<iostream>
+
+1479220725 source:e:\!telkom university\struktur data\queue\queue3\queue.cpp
+	"queue.h"
+
